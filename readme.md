@@ -2,7 +2,7 @@
 
 A brief description of what this project does.
 
-## Contributing
+## Contributingg
 
 We welcome contributions! Please review [CONTRIBUTING.md](CONTRIBUTING.md) and note that all contributors must sign our [Contributor License Agreement (CLA)](CLA.md) before pull requests can be merged.
 
